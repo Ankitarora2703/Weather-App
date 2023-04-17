@@ -1,0 +1,15 @@
+* {
+    background-color: rgb(138, 134, 134);
+    color: white;
+}
+
+body {
+    background-image: url(weather.jpeg);
+
+}
+
+#submit {
+    background-color: rgb(138, 134, 134);
+    color: black;
+    border: 1px solid black;
+}
